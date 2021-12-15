@@ -1,0 +1,15 @@
+C:\Users\tessa\source\repos\contains\contains\bin\Debug\contains.exe.config
+C:\Users\tessa\source\repos\contains\contains\bin\Debug\contains.exe
+C:\Users\tessa\source\repos\contains\contains\bin\Debug\contains.pdb
+C:\Users\tessa\source\repos\contains\contains\obj\Debug\contains.csproj.AssemblyReference.cache
+C:\Users\tessa\source\repos\contains\contains\obj\Debug\MainWindow.g.cs
+C:\Users\tessa\source\repos\contains\contains\obj\Debug\App.g.cs
+C:\Users\tessa\source\repos\contains\contains\obj\Debug\contains_MarkupCompile.cache
+C:\Users\tessa\source\repos\contains\contains\obj\Debug\contains_MarkupCompile.lref
+C:\Users\tessa\source\repos\contains\contains\obj\Debug\MainWindow.baml
+C:\Users\tessa\source\repos\contains\contains\obj\Debug\contains.g.resources
+C:\Users\tessa\source\repos\contains\contains\obj\Debug\contains.Properties.Resources.resources
+C:\Users\tessa\source\repos\contains\contains\obj\Debug\contains.csproj.GenerateResource.cache
+C:\Users\tessa\source\repos\contains\contains\obj\Debug\contains.csproj.CoreCompileInputs.cache
+C:\Users\tessa\source\repos\contains\contains\obj\Debug\contains.exe
+C:\Users\tessa\source\repos\contains\contains\obj\Debug\contains.pdb

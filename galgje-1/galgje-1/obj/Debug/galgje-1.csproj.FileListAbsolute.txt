@@ -1,0 +1,15 @@
+C:\Users\tessa\source\repos\galgje-1\galgje-1\bin\Debug\galgje-1.exe.config
+C:\Users\tessa\source\repos\galgje-1\galgje-1\bin\Debug\galgje-1.exe
+C:\Users\tessa\source\repos\galgje-1\galgje-1\bin\Debug\galgje-1.pdb
+C:\Users\tessa\source\repos\galgje-1\galgje-1\obj\Debug\galgje-1.csproj.AssemblyReference.cache
+C:\Users\tessa\source\repos\galgje-1\galgje-1\obj\Debug\MainWindow.g.cs
+C:\Users\tessa\source\repos\galgje-1\galgje-1\obj\Debug\App.g.cs
+C:\Users\tessa\source\repos\galgje-1\galgje-1\obj\Debug\galgje-1_MarkupCompile.cache
+C:\Users\tessa\source\repos\galgje-1\galgje-1\obj\Debug\galgje-1_MarkupCompile.lref
+C:\Users\tessa\source\repos\galgje-1\galgje-1\obj\Debug\MainWindow.baml
+C:\Users\tessa\source\repos\galgje-1\galgje-1\obj\Debug\galgje-1.g.resources
+C:\Users\tessa\source\repos\galgje-1\galgje-1\obj\Debug\galgje_1.Properties.Resources.resources
+C:\Users\tessa\source\repos\galgje-1\galgje-1\obj\Debug\galgje-1.csproj.GenerateResource.cache
+C:\Users\tessa\source\repos\galgje-1\galgje-1\obj\Debug\galgje-1.csproj.CoreCompileInputs.cache
+C:\Users\tessa\source\repos\galgje-1\galgje-1\obj\Debug\galgje-1.exe
+C:\Users\tessa\source\repos\galgje-1\galgje-1\obj\Debug\galgje-1.pdb
